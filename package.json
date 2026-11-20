@@ -1,0 +1,9 @@
+{
+  "name": "rainbow-frontend-vanilla",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend für Rainbow.design (HTML, CSS, Vanilla JavaScript)",
+  "scripts": {
+    "start": "node serve.js"
+  }
+}
